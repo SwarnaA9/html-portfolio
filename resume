@@ -1,0 +1,37 @@
+<h1>Talamala Swarna</h1>
+<img src="./sunny.jpg" height="100" alt="profile picture" />
+<p>I am a hardworking and dedicated individual with experience in customer service and administration.</p>
+<hr />
+<h2>Education</h2>
+<ul>
+    <li>B.Tech(BVC Engineering College,Odalarevu) 2019-2023</li>
+    <li>Intermeditate(Aditya Junior College,Mandapera) 2017-2019</li>
+    <li>SSC(Z P P High School,Pandalapaka) 2016-2017</li>
+</ul>
+<hr />
+<h2>Skills</h2>
+<ul>
+    <li>Python(Basic)</li>
+    <li>Java(Basic)</li>
+    <li>HTML(Basic)</li>
+    <li>OOPs</li>
+    <li>MS-Office</li>
+</ul>
+<hr />
+<h2>Certifications</h2>
+<ul>
+    <li> Python Certification in APSSDC</li>
+    <li> Certification requirements for Certified System Administrator in SERVICENOW</li>
+    <li> Online certification in problem solving through programming in c by NPTEL</li>
+</ul>
+<hr />
+<h2>Hobbies</h2>
+<ul>
+    <li>Drawing</li>
+    <li>Travelling</li>
+    <li>Games</li>
+</ul>
+<h2>Contact</h2>
+<p>Email : talamalaswarna@gmail.com</p>
+<a href="https://goo.gl/maps/y7Qhpnr3hMnmdxBh7">Google Map</a>
+<a href="./contact details">Contact Details</a>
